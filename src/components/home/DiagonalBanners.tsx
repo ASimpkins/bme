@@ -1,7 +1,7 @@
 import React from 'react';
 
 export default function DiagonalBanners() {
-  const text = 'BRANDING • CONTENT • GROWTH • STRATEGY • ANALYTICS • ';
+  const text = 'SAFETY • BRANDING • CONTENT • GROWTH • STRATEGY • ANALYTICS • ';
   
   return (
     <>

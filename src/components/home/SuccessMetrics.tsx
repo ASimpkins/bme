@@ -12,19 +12,19 @@ const metrics: Metric[] = [
   },
   {
     icon: Users,
-    value: '2M+',
+    value: '2X+',
     label: 'Total Reach',
-    description: 'Combined audience growth'
+    description: 'Audience growth & retention'
   },
   {
     icon: DollarSign,
-    value: '$10M+',
+    value: '$1M+',
     label: 'Creator Earnings',
     description: 'Generated through our network'
   },
   {
     icon: Award,
-    value: '150+',
+    value: '15+',
     label: 'Success Stories',
     description: 'Transformed creator careers'
   }
