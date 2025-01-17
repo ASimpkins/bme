@@ -9,7 +9,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
             <h3 className="text-xl font-bold mb-4">BME Creators</h3>
-            <p className="text-gray-400">Empowering diverse voices to thrive in the creator economy.</p>
+            <p className="text-gray-400">Empowering creators to amplify their unique voices and grow their fan base safely in the OnlyFans community.</p>
           </div>
           
           <div>

@@ -4,42 +4,42 @@ import FloatingShapes from '../components/home/FloatingShapes';
 
 const successStories = [
   {
-    name: "Emily Chen",
-    platform: "YouTube",
-    niche: "Tech Reviews",
+    name: "Nicole",
+    platform: "OF",
+    niche: "Yoga Instructor",
     image: "https://i.ibb.co/tqRCWMF/Snapinsta-app-282120768-1067433484123638-8056689388366515947-n-1080-1.png?auto=format&fit=crop&q=80&w=400",
     metrics: {
       growth: "850%",
-      revenue: "$2.5M",
-      followers: "2.1M"
+      revenue: "$10.5k",
+      followers: "500"
     },
-    quote: "BME Creators transformed my channel from a hobby into a thriving business. Their strategies helped me grow from 10K to over 2M subscribers in just 18 months.",
-    tags: ["Tech", "Reviews", "Education"]
+    quote: "I can’t say enough great things about BME Creators! I was completely lost when I first started – I didn’t know where to begin or how to grow my presence, and I was overwhelmed by all the moving parts. From the moment I connected with the team, everything changed. They made me feel safe and supported every step of the way. The team genuinely cared about my success, took the time to explain everything clearly, and patiently answered all my questions. They broke everything down in a way that was easy to understand and made sure I felt confident moving forward What really stood out was how personal and thoughtful their approach was. I never felt like just another number – they truly listened to my goals and helped me build a plan that worked for me. Thanks to BME Creators, I feel empowered, supported, and finally on the right path to success. I can’t recommend them enough!",
+    tags: ["Yoga", "Instagram", "Education"]
   },
   {
-    name: "Marcus Thompson",
-    platform: "Instagram & TikTok",
-    niche: "Fitness & Wellness",
-    image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=400",
+    name: "Camila",
+    platform: "OF",
+    niche: "Fitness & Massage Therapist",
+    image: "https://i.ibb.co/PCvnQfN/3234819755085349044-4187515849-9d9184e1-ea72-4168-a30e-ce872ef8ca7d.jpg?auto=format&fit=crop&q=80&w=400",
     metrics: {
       growth: "1200%",
-      revenue: "$1.8M",
-      followers: "3.5M"
+      revenue: "$21K",
+      followers: "600"
     },
-    quote: "The team's holistic approach to content strategy and community building helped me create a genuine connection with my audience while maximizing growth.",
+    quote: "I can't express how grateful I am to have found BME Creators. Before working with them, I was with another agency that honestly left me in the dark. They didn’t guide me, and I felt completely lost trying to figure everything out on my own. Switching to BME Creators was the best decision I’ve ever made. From day one, they took the time to educate me and explain their entire process in detail. I finally understood what was happening behind the scenes and felt empowered to make decisions about my account. They completely revamped and remarketed my account to be more engaging and exciting for my fans, which has provided such a better experience for everyone involved. What I love most about BME Creators is how hands-on and supportive they are. They truly care about helping you grow and succeed. My engagement has skyrocketed, my fans are happier than ever, and I finally feel like I’m working with a team that understands me and my goals. If you’re looking for an agency that delivers real results and treats you like family, BME Creators is it. They’re absolutely awesome!",
     tags: ["Fitness", "Lifestyle", "Wellness"]
   },
   {
-    name: "Sofia Rodriguez",
-    platform: "YouTube & Twitch",
-    niche: "Gaming",
-    image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?auto=format&fit=crop&q=80&w=400",
+    name: "Stefenia",
+    platform: "OF",
+    niche: "Fitness & Beach",
+    image: "https://i.ibb.co/mJ2nv5P/FF229-A70-6-FC0-4606-86-AA-38-C45906-D4-B5-Stephania.jpg?auto=format&fit=crop&q=80&w=400",
     metrics: {
-      growth: "600%",
-      revenue: "$900K",
-      followers: "1.2M"
+      growth: "1000%",
+      revenue: "$32K",
+      followers: "1.6K"
     },
-    quote: "Their expertise in gaming content and community management was invaluable. They helped me turn my passion into a sustainable career.",
+    quote: "As a mom, finding something that fits into my life while allowing me to spend quality time with my children has always been a challenge, but BME Creators has been a life-changing blessing. The daily Zoom calls with the team are incredibly helpful, keeping everything on track and providing clear guidance every step of the way. I love how straightforward my “homework” is—there’s no guessing, and I know exactly what type of videos will resonate with my audience, saving me so much time and stress. Thanks to their support, I’ve been able to create content that engages my fans while earning revenue that has completely transformed my life. I can focus on building a better future for my family without sacrificing precious time with my kids, and for that, I’m forever grateful to the amazing team at BME Creators.",
     tags: ["Gaming", "Entertainment", "Live Streaming"]
   }
 ];
@@ -103,7 +103,7 @@ export default function SuccessStories() {
                         <div className="text-center">
                           <Users className="w-8 h-8 text-primary-600 mx-auto mb-2" />
                           <div className="text-2xl font-bold text-gray-900">{story.metrics.followers}</div>
-                          <div className="text-sm text-gray-600">Followers</div>
+                          <div className="text-sm text-gray-600">Fans</div>
                         </div>
                       </div>
 

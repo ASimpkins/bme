@@ -6,22 +6,22 @@ export default function About() {
   const values = [
     {
       icon: Rocket,
-      title: "Innovation First",
-      description: "Pushing boundaries in the creator economy with cutting-edge strategies"
+      title: "Safely Boost",
+      description: "Empowering creators with cutting-edge tools and strategies to grow their fan base, increase engagement, and elevate their revenue safely and effectively."
     },
     {
       icon: Heart,
-      title: "Creator Success",
-      description: "Your growth is our mission - we succeed when you succeed"
+      title: "Creator First",
+      description: "Your journey is our priority—when we grow your audience and deepen fan connections, we succeed together."
     },
     {
       icon: Users,
-      title: "Diverse Voices",
-      description: "Empowering creators from all backgrounds to share their stories"
+      title: "Creator Family",
+      description: "we’re a family. We provide unwavering support, ensuring every creator feels valued, heard, and cared for"
     },
     {
       icon: Globe,
-      title: "Global Impact",
+      title: "Fan Nurturing",
       description: "Building a worldwide community of influential creators"
     }
   ];
@@ -34,10 +34,11 @@ export default function About() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
           <div className="text-center">
             <h1 className="text-5xl md:text-7xl font-black text-white mb-6 tracking-tight">
-              Empowering the Next Generation of Creators
+              
+Boosting Creators to Their Full Potential
             </h1>
             <p className="text-xl text-primary-100 max-w-3xl mx-auto">
-              We're on a mission to democratize the creator economy and help talented individuals turn their passion into prosperity.
+              We're on a mission to revolutionize the OnlyFans creator space, helping talented individuals expand their fan base, showcase their personality, and grow their revenue safely and sustainably.
             </p>
           </div>
         </div>
@@ -50,13 +51,13 @@ export default function About() {
             <div className="bg-gradient-to-br from-primary-600 to-purple-600 p-8 rounded-3xl text-white transform hover:scale-105 transition-all duration-300">
               <h2 className="text-3xl font-bold mb-4">Our Mission</h2>
               <p className="text-lg">
-                To provide creators with the tools, strategies, and support they need to build sustainable businesses and meaningful communities.
+                To empower creators by providing a safe, supportive environment where their voices are heard, their concerns are addressed, and their growth is prioritized. We offer the tools, strategies, and education they need to maximize revenue, build authentic connections with their audience, and foster meaningful relationships with their biggest fans.
               </p>
             </div>
             <div className="bg-gradient-to-br from-yellow-400 to-orange-500 p-8 rounded-3xl text-white transform hover:scale-105 transition-all duration-300">
               <h2 className="text-3xl font-bold mb-4">Our Vision</h2>
               <p className="text-lg">
-                A world where creative individuals can thrive independently, sharing their unique perspectives and talents with global audiences.
+                A world where creators thrive as independent entrepreneurs, feeling valued, protected, and equipped to share their unique personalities and talents. We envision a community that balances financial success with genuine engagement, enabling creators to make a lasting impact on their audience while growing sustainably.
               </p>
             </div>
           </div>
@@ -85,7 +86,7 @@ export default function About() {
       {/* Team Section */}
       <section className="py-20 bg-gray-900 text-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-4xl font-bold text-center mb-12">Meet Our Team</h2>
+          <h2 className="text-4xl font-bold text-center mb-12">Meet Our Family</h2>
           <div className="grid md:grid-cols-3 gap-8">
             {[
               {

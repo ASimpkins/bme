@@ -12,7 +12,7 @@ export default function ContactInfo() {
     {
       icon: Phone,
       title: "Phone",
-      details: "+1 (555) 123-4567",
+      details: "+1 (555) XXX-4567",
       link: "tel:+15551234567"
     },
     {
