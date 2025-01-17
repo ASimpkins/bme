@@ -8,8 +8,8 @@ import FloatingShapes from './FloatingShapes';
 export default function HeroSection() {
   const stats = [
     { icon: Star, text: '500% Average Growth' },
-    { icon: Rocket, text: '2M+ Reach' },
-    { icon: Zap, text: '$10M+ Generated' }
+    { icon: Rocket, text: '2X+ Reach' },
+    { icon: Zap, text: '$1M+ Generated' }
   ];
 
   return (
@@ -24,7 +24,7 @@ export default function HeroSection() {
           <div className="relative lg:hidden mt-24 mb-4">
             <div className="relative z-10">
               <img
-                src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=800"
+                src="https://i.ibb.co/R2x27YP/Stephania-Website.jpg?auto=format&fit=crop&q=80&w=800"
                 alt="Creator"
                 className="rounded-3xl shadow-2xl transform -rotate-6 w-full max-w-[280px] mx-auto"
               />
@@ -43,7 +43,7 @@ export default function HeroSection() {
                 </div>
               </h1>
               <p className="text-xl md:text-2xl text-primary-100 max-w-xl mt-8 mx-auto lg:mx-0">
-                Transform your social media presence with data-driven strategies and proven growth techniques
+                Transform your earnings safely with data-driven strategies and proven growth techniques
               </p>
             </div>
 
@@ -54,7 +54,7 @@ export default function HeroSection() {
                 className="animate-gentle-bounce group relative inline-flex items-center px-8 py-4 text-lg font-bold text-black bg-gradient-to-r from-yellow-400 to-yellow-300 rounded-full overflow-hidden transition-all duration-300 hover:scale-105 hover:shadow-neon"
               >
                 <span className="relative z-10 flex items-center">
-                  START GROWING
+                  EARN MORE
                   <ArrowRight className="ml-2 w-6 h-6 group-hover:translate-x-1 transition-transform" />
                 </span>
                 <div className="absolute inset-0 bg-gradient-to-r from-yellow-300 to-yellow-400 transform scale-x-0 group-hover:scale-x-100 transition-transform origin-left" />
@@ -86,7 +86,7 @@ export default function HeroSection() {
           <div className="relative hidden lg:block">
             <div className="relative z-10">
               <img
-                src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=800"
+                src="https://i.ibb.co/R2x27YP/Stephania-Website.jpg?auto=format&fit=crop&q=80&w=800"
                 alt="Creator"
                 className="rounded-3xl shadow-2xl transform -rotate-6 w-full"
               />

@@ -6,8 +6,8 @@ export default function ContactInfo() {
     {
       icon: Mail,
       title: "Email",
-      details: "hello@bmecreators.com",
-      link: "mailto:hello@bmecreators.com"
+      details: "contact@bmecreators.com",
+      link: "mailto:contact@bmecreators.com"
     },
     {
       icon: Phone,
@@ -18,13 +18,13 @@ export default function ContactInfo() {
     {
       icon: MapPin,
       title: "Location",
-      details: "Los Angeles, CA",
+      details: "New York, NY",
       link: null
     },
     {
       icon: Clock,
       title: "Hours",
-      details: "Mon-Fri: 9AM-6PM PST",
+      details: "Mon-Fri: 9AM-6PM EST",
       link: null
     }
   ];
@@ -33,8 +33,8 @@ export default function ContactInfo() {
     <div className="space-y-8">
       <div className="prose prose-lg">
         <h2 className="text-3xl font-bold text-gray-900">Get in Touch</h2>
-        <p className="text-gray-600">
-          Have questions about our services? Want to learn more about how we can help grow your platform? Drop us a message!
+        <p className="text-gray-6 Want to learn more about our agency or how we can help elevate your platform? Drop us a message—we’d love to connect and discuss your goals! Ready to take the next step? Click Apply at the top right to get started.00">
+         
         </p>
       </div>
 

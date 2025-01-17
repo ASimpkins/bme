@@ -89,19 +89,19 @@ export default function About() {
           <div className="grid md:grid-cols-3 gap-8">
             {[
               {
-                name: "Sarah Chen",
-                role: "Founder & CEO",
+                name: "Michelle",
+                role: "Manager of Workforce Optimization",
                 image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?auto=format&fit=crop&q=80&w=400"
               },
               {
-                name: "Marcus Rodriguez",
-                role: "Head of Strategy",
+                name: "Crystal",
+                role: "Manager of Skill Cultivation",
                 image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80&w=400"
               },
               {
-                name: "Priya Patel",
-                role: "Creative Director",
-                image: "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&q=80&w=400"
+                name: "Melanie",
+                role: "Workflow Coordinator",
+                image: "https://i.ibb.co/N12wHsz/melanie-Headshot.jpg?auto=format&fit=crop&q=80&w=400"
               }
             ].map((member, index) => (
               <div

@@ -7,21 +7,21 @@ const testimonials: Testimonial[] = [
   {
     name: 'Nicole',
     role: 'Instagram Creator',
-    image: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=200',
+    image: 'https://i.ibb.co/tqRCWMF/Snapinsta-app-282120768-1067433484123638-8056689388366515947-n-1080-1.png?auto=format&fit=crop&q=80&w=200',
     quote: 'When she partnered with us, she was brand-new to the creator space. In just 30 days, we helped her launch her account and propelled her to the prestigious top 5% of creators',
     stats: '50K+ Likes Daily'
   },
   {
     name: 'Camila',
     role: 'OF Fitness Influencer',
-    image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=200',
+    image: 'https://i.ibb.co/PCvnQfN/3234819755085349044-4187515849-9d9184e1-ea72-4168-a30e-ce872ef8ca7d.jpg?auto=format&fit=crop&q=80&w=200',
     quote: 'She was already an established adult creator, but we saw untapped potential. By rebranding her to emphasize exclusivity and aligning her content with her passion for fitness, we helped her stand out and her sales skyrocketed as a result.',
     stats: '1M+ Following'
   },
   {
     name: 'Stefania',
     role: 'Instagram & TikTok Creator',
-    image: 'https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?auto=format&fit=crop&q=80&w=200',
+    image: 'https://i.ibb.co/mJ2nv5P/FF229-A70-6-FC0-4606-86-AA-38-C45906-D4-B5-Stephania.jpg?auto=format&fit=crop&q=80&w=200',
     quote: 'By leveraging analytics, our team developed a system tailored to her needs. It required minimal effort on her part for content creation while empowering her to regain her drive, workflow, and balance in life.',
     stats: '2M+ Views Monthly'
   }
@@ -50,7 +50,7 @@ export default function Testimonials() {
           <h2 className="text-4xl md:text-5xl font-bold text-white mb-4">
             Creator Success Stories
           </h2>
-          <p className="text-xl text-gray-300">Transformations Made Possible by Us</p>
+          <p className="text-xl text-gray-300">Growth Made Possible by Us</p>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">

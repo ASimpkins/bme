@@ -7,7 +7,7 @@ const successStories = [
     name: "Emily Chen",
     platform: "YouTube",
     niche: "Tech Reviews",
-    image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=400",
+    image: "https://i.ibb.co/tqRCWMF/Snapinsta-app-282120768-1067433484123638-8056689388366515947-n-1080-1.png?auto=format&fit=crop&q=80&w=400",
     metrics: {
       growth: "850%",
       revenue: "$2.5M",
